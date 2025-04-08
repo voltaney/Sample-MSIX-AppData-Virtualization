@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PackageTypeCheck (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PackageTypeCheck (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
