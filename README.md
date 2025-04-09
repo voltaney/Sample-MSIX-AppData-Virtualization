@@ -1,4 +1,6 @@
-# PackageTypeCheck
+# About
 
-- ソリューション構成を分けることで、Packaged/Unpackagedの両方のパッケージに対応させる例です。
-- プリプロセッサで、実装の分岐も行っています。
+- AppData仮想化の挙動を確認するためのサンプルです。
+
+# Contexts
+- https://learn.microsoft.com/ja-jp/windows/msix/desktop/desktop-to-uwp-behind-the-scenes#common-file-system-operations
